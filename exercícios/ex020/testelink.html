@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2 Personalizando Links</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a {
+            color: rgb(163, 139, 61);
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:visited{
+            color: rgb(141, 219, 25);
+        }
+        
+        a:active{
+            color: red;
+        }
+        a::before{
+            content: '\002666';
+        }
+
+        a::after{
+            content: '\002662';
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando links parte 2</h1>
+    <ul>
+        <li><a href="https://www.globo.com/">Globo</a></li>
+        <li><a href="https://www.youtube.com/">Youtube</a></li>
+        <li><a href="https://www.google.com.br/?gfe_rd=cr&ei=Ay6GVNSJIeKU8Qf04IHYCA&gws_rd=ssl">Google</a></li>
+        <li><a href="https://www.facebook.com">Facebook</a></li>
+    </ul>
+</body>
+</html>

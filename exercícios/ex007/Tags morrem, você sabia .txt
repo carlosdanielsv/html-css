@@ -1,0 +1,15 @@
+Tags morrem, você sabia? 
+
+Existem tags que ainda funcionam hoje em dia, mas estão prestes a serem consideradas obsoletas, como as tags <font> e <center>. E existem outras que simplismente foram excluídas das versões mais atuais da HTML5, como é o caso do <applet> e <blink>.
+
+Isso acontece porque a linguagem evolui, e nesse processo algumas tags param de fazer sentido pois existem outras bem melhores e que fazem mais sentido.
+
+Sendo assim, a própira W3C sugere que no lugar de <b>, que significa bold ou negrito e que seria simplesmente uma forma de apresentar um dado, passemos a usar a tag <strong>, que tem um significado de força ou potência dentro da frase. 
+
+
+    FIQUE SEMPRE DE OLHO: Existe um documento oficial do Consórcio da World Wide Web (W3C) que é atualizado constantemente com tags que estão ficando obsoletas e algumas substituiçao desejáveis que devemos fazer.
+
+Diferenças entre HTML4 E 5: https://www.w3.org/TR/html5-diff/#absent-attributes
+Elementos obsoletos na HTML5: https://dev.w3.org/html5/pf-summary/obsolete.html
+
+Sendo assim, se você está aprendendo HTML com o uso das tags <font>, <big>, <center>, <srtike> e muitas outras, pode mandar esses links oficiais que estão ai em cima para quem está te ensinando desse jeito. Talvez essa pessoa nem saiba ainda que deverá atualizar seus materiais o quanto antes.
